@@ -1,0 +1,4 @@
+ARIMA(1,1,1) baseline fatigue forecaster
+Sequences fitted: 3000
+MAE:  0.0518
+RMSE: 0.0654

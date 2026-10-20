@@ -1,0 +1,9 @@
+Quality Rank Classifier v3 FINAL (combined features)
+Test Accuracy: 63.74%
+
+Feature importance:
+Fatigue_Score       0.485682
+hours_into_shift    0.470796
+Efficiency_Ratio    0.015536
+CT_Consistency      0.014539
+Skill_Factor        0.013446

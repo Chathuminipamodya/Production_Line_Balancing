@@ -1,0 +1,4 @@
+LSTM fatigue forecaster (window=4)
+Train sequences: 53671, Test sequences: 13418
+MAE:  0.0101
+RMSE: 0.0133
