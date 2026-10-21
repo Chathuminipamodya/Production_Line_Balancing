@@ -1,4 +1,4 @@
-# Smart Production Line Balancing and Workforce Planning
+# Smart Production Line Balancing and Workforce Planning with Fatigue Forcasting
 
 ## Overview
 
